@@ -1,0 +1,5 @@
+﻿  Student.cpp
+  Three.cpp
+D:\home practice\Solutions\FileAssignments\Ass3\Three.cpp(16,39): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  Generating Code...
+  Ass3.vcxproj -> D:\home practice\Solutions\FileAssignments\x64\Debug\Ass3.exe

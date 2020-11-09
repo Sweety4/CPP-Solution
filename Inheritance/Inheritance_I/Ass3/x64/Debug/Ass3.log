@@ -1,0 +1,10 @@
+﻿  date.cpp
+  Emp.cpp
+D:\Know-IT\Inheritance_I\Ass3\Emp.cpp(5,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+D:\Know-IT\Inheritance_I\Ass3\main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  sales.cpp
+  str.cpp
+  wage.cpp
+  Generating Code...
+  Ass3.vcxproj -> D:\Know-IT\Inheritance_I\x64\Debug\Ass3.exe

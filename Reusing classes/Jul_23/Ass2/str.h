@@ -1,0 +1,22 @@
+
+
+#define _CRT_SECURE_NO_WARNINGS
+#include<iostream>
+using namespace std;
+
+class cString
+{
+	int len;
+	char *str;
+public:
+	cString();
+	cString(char, int);
+	cString(char const*);
+	cString(const cString&);
+	cString operator=(const cString&);
+	void Display();
+	void Accept();
+	~cString();
+};
+
+

@@ -1,0 +1,22 @@
+--1 Create a class
+    Person with data members as
+    name, age, city.
+    use apropriate constructor.
+    and Display Fucntion.
+
+--2 Create Class Complex with data member as
+    real and imganary;
+    1.Implement default and paramerzed constructors.
+    2.Use Display fucntion.
+    3.Count Number of objects created.
+    4.implement function to show number of object created.
+
+--3 Create Account class with data member 
+    account number;
+    name, and balance.
+    1.Implement default and paramerzed constructors.
+    2.Use Display fucntion.
+    
+
+   
+   

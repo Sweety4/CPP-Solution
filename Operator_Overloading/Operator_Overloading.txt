@@ -1,0 +1,15 @@
+1. Create a class Complex with data members as real and img.
+   Write a code to perform operator overloading.
+   1. Binary addition (+)
+   2. Binary subtraction(-)
+   3. Pre-increment ++
+   4. Post-increment -- 
+
+2. Create a class box with data member as capacity.
+   Write a code to compare 2 objects.
+   (Hint : overload greater than(>) operator).
+
+3. Creata a class student 
+   with the data members as nosubject(number of subjects),and marks.
+   Create a dynamic array for marks with length as nosubjects.
+   Accept and Display marks of all the subject.

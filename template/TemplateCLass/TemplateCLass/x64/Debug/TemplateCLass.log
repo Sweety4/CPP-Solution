@@ -1,0 +1,5 @@
+﻿  Array.cpp
+D:\home practice\Solutions\TemplateCLass\TemplateCLass\Array.cpp(3,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Source.cpp
+  Generating Code...
+  TemplateCLass.vcxproj -> D:\home practice\Solutions\TemplateCLass\x64\Debug\Ass1.exe

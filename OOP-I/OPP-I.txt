@@ -1,0 +1,24 @@
+
+
+Day_02
+--1. Declare Class cArea with data member 
+     length and breadth.
+     a) write default and parameterised constructor.
+     b) Display Area with function
+     c) Calculate area with fucntion (length*breadth).
+
+--2. Declare class cStudent with data member
+     rnol no, name  and percentage.
+     a) Implement default and parameterised constructor.
+     b) Implement accept and display function.
+     c) use show_result fucntion as following.
+      if per is greater then 35 and less then 50 display result as pass 
+         if per greater then 50 and less then 60 display result as pass with second division.
+         if per greater then 60 and less then 75 display result as pass with first division.
+         if per greater then 75 and distinction.
+
+--3. Declare class cDate with data member 
+     day ,month and year.
+     a) Implement Necessary constructor.
+     b) write accept and display.
+     

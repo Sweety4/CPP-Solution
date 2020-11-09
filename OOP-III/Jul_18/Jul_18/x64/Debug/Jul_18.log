@@ -1,0 +1,5 @@
+﻿  Book.cpp
+  main.cpp
+d:\csolutions\oop-iii\jul_18\jul_18\main.cpp(4): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Jul_18.vcxproj -> D:\CSolutions\OOP-III\Jul_18\x64\Debug\Ass1.exe

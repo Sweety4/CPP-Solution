@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\csolutions\oop-iii\jul_18\ass3\main.cpp(3): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Ass3.vcxproj -> D:\CSolutions\OOP-III\Jul_18\x64\Debug\Ass3.exe

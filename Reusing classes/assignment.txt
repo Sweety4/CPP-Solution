@@ -1,0 +1,21 @@
+1) Create class Student
+   a. Where roll number should ne genareted automatically.
+   b. Name of student.
+   c. date of admission (Object of date class).
+   accept and display data about 5 students.
+   
+2) Create class person with following data member.
+   a. Person name (object of cString class).
+   b. Perment Address (object of Address Class).
+   c. Address class should have(area,city,pin).
+
+3) Create class Employee with following data member
+   a) emplpoyee id (automatically)
+   b) name (object of String class).
+   c) date of joining (object of date class)
+   d) salary.
+   Create dynamic array of Employee.
+   Accept and Display data of 3 employee;
+   
+    
+   

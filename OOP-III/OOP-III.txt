@@ -1,0 +1,24 @@
+--1 Create Book class
+    With following data members
+    book number,name and Price;
+    Requirements
+    1. Book Number should be generated automatically.
+    2. Write appropriate Constructor.
+    3. Implement Accept and Display Functions.
+    3. Find out maximum price.
+--2 Create Bank Account class
+    with following data members
+    account number,name,interest rate and balance.
+    Requirements.
+    1. interest rate is same for all account holders.
+    2. Account number should be generated automatically from        100 onwards.
+    3. Make provision at start to assign interest rate.
+--3 Create Complex class
+    with following data members
+    real and imganary.
+    Requiremants.
+    1. Implement constructor.
+    2. implement get and set functions.
+    3. apply "cosnt" keyword for wherever required.
+    4. find out number of object created.
+    4. Create constant object. 

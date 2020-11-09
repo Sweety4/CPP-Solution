@@ -1,0 +1,24 @@
+
+1. Create Student Class.
+   a.Data Member
+      no,name;
+   b.Member Fucntion.
+     get and set fucntion.
+     Accept And Display.
+     Implement Copy constructor.
+
+2. Implement String class
+   a. Implement constructors for String class
+   b. Default Constructor
+   c. parametrized constructor
+   d. Copy Constructor.
+   e. Overload Equal (=) operator.
+
+3. Create Employee class with
+   a. Employee id (int);
+   b. Name (char *);
+   c. city (char[]);
+   Implement constrctors.
+   Accept and Display Fucntion
+   Use setName Function to change Name.
+    
